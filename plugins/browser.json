@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "in.co.schonbeauty"
+        }
+    }
+}
